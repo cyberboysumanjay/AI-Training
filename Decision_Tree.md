@@ -8,7 +8,7 @@ Less depth can result into under fitting and more can result into over fitting.
 
 
 ## Advantages:
-Easy to visualise
+Easy to visualise.
 Less time complexity
 Efficient than other Algorithms if data size is small.
 
